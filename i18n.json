@@ -2,5 +2,9 @@
     "data": {
         "only-gmail-allowed" : "Please enter your email address. Only gmail.com addresses are accepted.",
         "license" : "Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. Icons by Font Awesome.",
+        "copyright" : "Except as otherwise noted, the content of this page is licensed under the <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 License</a>, and code samples are licensed under the <a href=\"https://www.apache.org/licenses/LICENSE-2.0\">Apache 2.0 License</a>. Icons by <a href=\"https://fontawesome.com/\" target=\"_blank\">Font Awesome.</a>",
   "_isLastLine": "true"
+
+
+
 }
