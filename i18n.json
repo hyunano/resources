@@ -1,3 +1,6 @@
-{ "only-gmail-allowed" : "Please enter your email address. Only gmail.com addresses are accepted.",
+{   
+    "data": {
+        "only-gmail-allowed" : "Please enter your email address. Only gmail.com addresses are accepted.",
+        "license" : "Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. Icons by Font Awesome.",
   "_isLastLine": "true"
 }
